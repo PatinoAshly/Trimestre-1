@@ -1,4 +1,4 @@
-# Funci-n-de-conexi-n-
+
 
 def do_connect(SSID, PASSWORD):
 
